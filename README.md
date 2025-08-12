@@ -1,3 +1,6 @@
+<img width="1029" height="784" alt="image" src="https://github.com/user-attachments/assets/4a71e53b-0d6d-4eb7-835a-45f33bb707d3" />
+
+
 Projeto DrogaLisa
 Projeto Final Bloco 2 Generation - Brasil
 Desenvolvido por Raul da Silva Vieira
